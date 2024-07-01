@@ -2,7 +2,7 @@
 #轻松育儿集礼卡
 cron "2 2 29 2  *" jd_mybbp.js
 */
-const $ = new Env('轻松育儿集礼卡 5.23-6.30')
+const $ = new Env('轻松育儿集礼卡 7.1-7.15')
 let isDraw = false      //是否抽奖默认为false， 如需抽奖可自行改成true
 
 
